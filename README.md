@@ -15,9 +15,7 @@ Here's a README file for a GitHub project using the provided superstore dataset 
 - [Analysis and Visualization](#analysis-and-visualization)
 - [Technologies Used](#technologies-used)
 - [Future Work](#future-work)
-- [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
